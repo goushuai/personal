@@ -1,0 +1,10 @@
+{
+    "rust": {
+        "clippy_preference": "on"
+    },
+    "initializationOptions": {
+        "cache": {
+            "directory": "/tmp/ccls"
+        }
+    }
+}
